@@ -1,6 +1,7 @@
 ## Hey, PinkRabbit here! :rabbit:
 
-I'm Chen Liangzhou, a senior high school student studying at the Affiliate High School of Fujian Normal University (AHSOFNU or AHSFNU for short), in Fuzhou, China.
+I'm Chen Liangzhou, a student at [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua University (THU, Beijing, China).  
+Formerly a senior high school student studying at the Affiliate High School of Fujian Normal University (AHSOFNU or AHSFNU for short), in Fuzhou, China.
 
 Currently not a developer or something, but maybe someday will.
 
