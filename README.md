@@ -13,9 +13,9 @@ Interested in Competitive Programming! Check these if you want:
 - [My Codeforces Account](https://codeforces.com/profile/PinkRabbit).
 - [My AtCoder Account](https://atcoder.jp/users/PinkRabbit).
 
-How to contact me?
-
 <img style="width: 45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPinkRabbit&layout=compact" />
+
+How to contact me?
 
 - Tencent QQ: 693511570 or 3507898808.
 - Telegram: [@PinkRabbitCHN](https://t.me/PinkRabbitCHN). (:warning: not frequently used)
