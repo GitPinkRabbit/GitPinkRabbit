@@ -1,6 +1,6 @@
 ## Hey, PinkRabbit here! :rabbit:
 
-<img style="width: 45%" align="right" src="https://github-readme-stats.vercel.app/api?username=GitPinkRabbit&theme=dark&show_icons=true" />
+<img style="width: 47%" align="right" src="https://github-readme-stats.vercel.app/api?username=GitPinkRabbit&theme=dark&show_icons=true" />
 
 I'm Chen Liangzhou, a student at [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua U.  
 Formerly a senior high school student studying at the Affiliate High School of Fujian Normal University (AHSOFNU or AHSFNU for short).
@@ -13,7 +13,7 @@ Interested in Competitive Programming! Check these if you want:
 - [My Codeforces Account](https://codeforces.com/profile/PinkRabbit).
 - [My AtCoder Account](https://atcoder.jp/users/PinkRabbit).
 
-<img style="width: 45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPinkRabbit&layout=compact" />
+<img style="width: 47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPinkRabbit&layout=compact" />
 
 How to contact me?
 
