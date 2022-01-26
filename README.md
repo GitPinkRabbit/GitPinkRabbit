@@ -1,11 +1,11 @@
 ## Hey, PinkRabbit here! :rabbit:
 
-<p align="right"><img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=GitPinkRabbit&theme=dark&show_icons=true" /></p>
+<img align="right" style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=GitPinkRabbit&theme=dark&show_icons=true" />
 
 I'm Chen Liangzhou, a student at [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua U.  
 Formerly a senior high school student studying at the Affiliate High School of Fujian Normal University (AHSOFNU or AHSFNU for short).
 
-<p align="right"><img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPinkRabbit&layout=compact" /></p>
+<img align="right" style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPinkRabbit&layout=compact" />
 
 Currently not a developer or something, but maybe someday will.
 
