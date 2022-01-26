@@ -16,6 +16,6 @@ How to contact me?
 - Tencent QQ: 693511570 or 3507898808.
 - Telegram: [@PinkRabbitCHN](https://t.me/PinkRabbitCHN). (:warning: not frequently used)
 
-![PinkRabbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitPinkRabbit&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GitPinkRabbit&show_icons=true" />
 
-![PinkRabbit's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitPinkRabbit&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPinkRabbit&layout=compact" />
