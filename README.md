@@ -5,9 +5,9 @@
 I'm Chen Liangzhou, a student at [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua U.  
 Formerly a senior high school student studying at the Affiliate High School of Fujian Normal University (AHSOFNU or AHSFNU for short).
 
-<img style="width: 45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPinkRabbit&layout=compact" />
-
 Currently not a developer or something, but maybe someday will.
+
+<img style="width: 45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPinkRabbit&layout=compact" />
 
 Interested in Competitive Programming! Check these if you want:
 
