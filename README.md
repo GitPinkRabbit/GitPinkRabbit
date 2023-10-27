@@ -3,7 +3,7 @@
 <img style="width: 47%" align="right" src="https://github-readme-stats.vercel.app/api?username=GitPinkRabbit&theme=dark&show_icons=true" />
 
 I'm Chen Liangzhou, a student at [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua U.  
-Formerly a senior high school student studying at the Affiliate High School of Fujian Normal University (AHSOFNU or AHSFNU for short).
+Formerly a senior high school student studying at the Affiliated High School of Fujian Normal University (AHSOFNU or AHSFNU for short).
 
 Currently not a developer or something, but maybe someday will.
 
