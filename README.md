@@ -19,3 +19,5 @@ How to contact me?
 
 - Tencent QQ: 693511570 or 3507898808.
 - Telegram: [@PinkRabbitCHN](https://t.me/PinkRabbitCHN). (:warning: not frequently used)
+
+![](https://hoyocard.qhy04.com/gs/detail/rand/352403782.png)
