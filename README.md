@@ -10,7 +10,7 @@ Currently not a developer or something, but maybe someday will.
 Interested in Competitive Programming! Check these if you want:
 
 - [My blog (cnblogs)](https://www.cnblogs.com/PinkRabbit/).
-- [My Codeforces Account](https://codeforces.com/profile/PinkRabbit).
+- [My Codeforces Account](https://codeforces.com/profile/PinkieRabbit).
 - [My AtCoder Account](https://atcoder.jp/users/PinkRabbit).
 
 <img style="width: 47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPinkRabbit&layout=compact" />
